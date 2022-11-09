@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 6th year Ph.D. student in the Joint Program in Financial Economics at The University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics.      
+I am a sixth-year Ph.D. student in the Joint Program in Financial Economics at The University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics.      
 
 I am on the 2022-2023 academic job market.
 
