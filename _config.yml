@@ -11,7 +11,7 @@ title                    : "Fulin Li"
 title_separator          : "-"
 logo                     : ""
 name                     : &name "Fulin Li"
-description              : &description "Ph.D. Candidate in Financial Economics"
+description              : &description "Assistant Professor of Finance"
 url                      : https://lifulin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lifulin.github.io"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Fulin Li"
   avatar           : "lifulin.png"
-  bio              : "Ph.D. Candidate in Financial Economics"
-  location         : # "University of Chicago Booth School of Business"
-  employer         : "University of Chicago"
+  bio              : "Assistant Professor of Finance"
+  location         : "Texas A&M University Mays Business School"
+  employer         : "Texas A&M University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
-  email            : "fli3@chicagobooth.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
+  email            : "fli3@mays.tamu.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,26 +98,26 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "lifulin"
+  github           : "lifulin"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : #"fulin-li-b3513b147"
+  linkedin         : "fulin-li-b3513b147"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "@fulin_li3"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  ssrn             : # "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3304560"
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3304560"
   
 
 # Reading Files
