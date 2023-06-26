@@ -12,7 +12,7 @@ I will join Texas A&M University Mays Business School as an Assistant Professor 
 
 **Contact**: fli3@mays.tamu.edu
 
-**Research Interests**: Asset Pricing, Macroeconomics
+**Research Interests**: Asset Pricing, Social Finance, Macroeconomics
 
 [**Research**](https://lifulin.github.io/research/)
 
