@@ -85,7 +85,7 @@ author:
   name             : "Fulin Li"
   avatar           : "lifulin.png"
   bio              : "Assistant Professor of Finance"
-  location         : "Texas A&M University Mays Business School"
+  location         : #"Texas A&M University Mays Business School"
   employer         : "Texas A&M University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RCW2eTAAAAAJ&hl=en&authuser=2"
