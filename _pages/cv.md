@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-[This version](../files/CV_Fulin_Li.pdf): November 2022
+[This version](../files/CV_Fulin_Li.pdf): June 2023
 <!--- Coming soon.  --->
