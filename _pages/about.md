@@ -8,16 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a sixth-year Ph.D. student in the Joint Program in Financial Economics at the University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics.      
+I will join Texas A&M University Mays Business School as an Assistant Professor of Finance. I obtained my Ph.D. in Financial Economics from the University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics.
 
-I am on the 2022-2023 academic job market.
-
-**Contact**: fli3@chicagobooth.edu
+**Contact**: fli3@mays.tamu.edu
 
 **Research Interests**: Asset Pricing, Macroeconomics
 
 [**Research**](https://lifulin.github.io/research/)
 
 [**CV**](../files/CV_Fulin_Li.pdf)
-
-<!---**CV**: Coming soon.--->
