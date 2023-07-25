@@ -12,7 +12,7 @@ I am an Assistant Professor of Finance at Texas A&M University Mays Business Sch
 
 **Contact**: fli3@mays.tamu.edu
 
-**Research Interests**: Asset Pricing, Social Finance, Macroeconomics
+**Research Interests**: Asset Pricing, Macroeconomics
 
 [**Research**](https://lifulin.github.io/research/)
 
