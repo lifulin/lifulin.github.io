@@ -23,8 +23,8 @@ author_profile: true
 
 3. [Time Variation in the News-Returns Relationship](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981) (with Paul Glasserman and Harry Mamaysky)  
    Revise and resubmit at *Journal of Financial and Quantitative Analysis*    
-   This version: March 2022  
-   \[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981)\] \[[Internet Appendix](../files/Glasserman_Li_Mamaysky_internet_appendix.pdf)\] \[[Model Appendix](../files/Glasserman_Li_Mamaysky_model.pdf)\]
+   This version: July 2023  
+   \[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3420981)\] \[[Internet Appendix](../files/Glasserman_Li_Mamaysky_internet_appendix.pdf)\]
    <details><summary>Abstract</summary>
-   The well-documented underreaction of stock prices to news exhibits substantial time variation. Higher risk-bearing capacity of financial intermediaries, lower passive ownership of stocks, and more informative news increase price responses to contemporaneous news; surprisingly, they also increase price responses to lagged news (underreaction). Our findings are not driven by short-sale constraints, serial correlation in news flow, or improved information processing capacity. We discuss possible mechanisms based on investor behavior and strategic order-splitting by institutions. A simple model with limited attention and three investor types — institutional, non-institutional, passive — predicts the varying response to news we observe.
+   The speed of reaction of stock prices to news exhibits substantial time variation. Higher risk-bearing capacity of financial intermediaries, lower passive ownership of stocks, and more informative news increase price responses to contemporaneous news; surprisingly, these interaction variables also increase price responses to lagged news (underreaction). A simple model with limited attention and three investor types – institutional, non-institutional, passive – predicts the varying response to news we observe. A long-short trading strategy based on news sentiment earns high returns, and conditioning the strategy on the interaction variables substantially increases returns. The interactions we document are robust to the choice of news source.
    </details>
