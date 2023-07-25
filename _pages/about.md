@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Finance at Texas A&M University Mays Business School. I obtained my Ph.D. in Financial Economics from the University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics in 2023.
+I am an Assistant Professor of Finance at Texas A&M University Mays Business School. I obtained my Ph.D. in Financial Economics from the University of Chicago Booth School of Business and Kenneth C. Griffin Department of Economics.
 
 **Contact**: fli3@mays.tamu.edu
 
