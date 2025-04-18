@@ -11,8 +11,7 @@ author_profile: true
   
 ### The University of Chicago
 * Corporate Finance (EMBA core), TA for Pietro Veronesi  
-  Winter 2020 (London), Spring 2021 (London)   
-  **TA Evaluations: 4.38/5, 4.59/5**
+  Winter 2020 (London), Spring 2021 (London)
 * Investments (MBA core), TA for John Heaton  
   Autumn 2019, Autumn 2020
 * Financial Economics: Speculative Markets (Undergrad elective), TA for Fernando Alvarez   
