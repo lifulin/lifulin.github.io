@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Texas A&M University
+* Investment Analysis (Undergrad core), Instructor   
+  Spring 2024, Spring 2025
+  
 ### The University of Chicago
 * Corporate Finance (EMBA core), TA for Pietro Veronesi  
   Winter 2020 (London), Spring 2021 (London)   
