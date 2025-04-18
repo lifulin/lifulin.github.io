@@ -19,8 +19,7 @@ author_profile: true
    Social media-fueled retail trading poses new risk to institutional investors. I develop a model to analyze the origin and pricing of this risk. Retail investors participate in a social network with concentrated linkages, which means their idiosyncratic sentiment shocks can lead to aggregate fluctuations in retail sentiment. These fluctuations shift investor composition, which in turn determines the price of retail sentiment risk. I calibrate the model to match price, quantity, and sentiment dynamics around the January 2021 short squeeze. Using the calibrated model, I quantify the impact of evolving social network topology on asset prices.
    </details>
 
-2. [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper.pdf) (with Dirk Krueger and Harald Uhlig) 
-
+2. [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper.pdf) (with Dirk Krueger and Harald Uhlig)     
    This version: December 2024  
    \[[Paper](../files/Krueger_Li_Uhlig_paper.pdf)\] \[[Slides](../files/Krueger_Li_Uhlig_slides.pdf)\]
    <details><summary>Abstract</summary>
