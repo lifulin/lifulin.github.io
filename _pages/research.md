@@ -20,7 +20,7 @@ author_profile: true
    </details>
 
 2. [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper.pdf) (with Dirk Krueger and Harald Uhlig)     
-   Revise and resubmit: *The Review of Economic Studies*     
+   Revise & resubmit: *The Review of Economic Studies*     
    This version: June 2025  
    \[[Paper](../files/Krueger_Li_Uhlig_paper.pdf)\] \[[Slides](../files/Krueger_Li_Uhlig_slides.pdf)\]
    <details><summary>Abstract</summary>
