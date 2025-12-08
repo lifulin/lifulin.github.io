@@ -13,13 +13,19 @@ author_profile: true
    </details>
 
 ## Working Papers
-1. [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236966)    
+1. [Trade Policy Surprises and U.S. Convenience Yields: Evidence from Prediction Markets](../files/Li_Xie.pdf) (with Yinxi Xie)     
+   This version: November 2025       
+   <details><summary>Abstract</summary>   
+   We show that U.S. trade policy surprises account for a large share of the variation in U.S. Treasury convenience yields during 2025. Using transaction-level data from Polymarket's tariff-related prediction markets, we construct a novel high-frequency measure of trade policy surprises. Leveraging narrow event windows around unscheduled trade announcements, we provide causal evidence that unexpected U.S. tariff increases weaken the convenience yield of U.S. Treasuries. Positive tariff surprises persistently reduce convenience yields across all maturities, with the underlying mechanisms differing by maturity through distinct safety and liquidity channels. Beyond Treasury markets, trade policy surprises also induce a persistent decline in equity prices, sustained increases in the VIX and text-based trade policy uncertainty, higher short-term inflation expectations, and a higher perceived probability of recession.
+   </details>
+
+2. [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236966)    
    This version: February 2025       
    <details><summary>Abstract</summary>   
    Social media-fueled retail trading poses new risk to institutional investors. I develop a model to analyze the origin and pricing of this risk. Retail investors participate in a social network with concentrated linkages, which means their idiosyncratic sentiment shocks can lead to aggregate fluctuations in retail sentiment. These fluctuations shift investor composition, which in turn determines the price of retail sentiment risk. I calibrate the model to match price, quantity, and sentiment dynamics around the January 2021 short squeeze. Using the calibrated model, I quantify the impact of evolving social network topology on asset prices.
    </details>
 
-2. [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper.pdf) (with Dirk Krueger and Harald Uhlig)     
+3. [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper.pdf) (with Dirk Krueger and Harald Uhlig)     
    Revise & resubmit: *The Review of Economic Studies*     
    This version: June 2025  
    \[[Paper](../files/Krueger_Li_Uhlig_paper.pdf)\] \[[Slides](../files/Krueger_Li_Uhlig_slides.pdf)\]
