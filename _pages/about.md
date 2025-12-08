@@ -17,3 +17,31 @@ I am an Assistant Professor of Finance at Texas A&M University Mays Business Sch
 [**Research**](https://lifulin.github.io/research/)
 
 [**CV**](../files/CV_Fulin_Li.pdf)
+
+## Working Papers
+1. [Trade Policy Surprises and U.S. Convenience Yields: Evidence from Prediction Markets](../files/Li_Xie.pdf) (with Yinxi Xie)     
+   This version: November 2025       
+   <details><summary>Abstract</summary>   
+   We show that U.S. trade policy surprises account for a large share of the variation in U.S. Treasury convenience yields during 2025. Using transaction-level data from Polymarket's tariff-related prediction markets, we construct a novel high-frequency measure of trade policy surprises. Leveraging narrow event windows around unscheduled trade announcements, we provide causal evidence that unexpected U.S. tariff increases weaken the convenience yield of U.S. Treasuries. Positive tariff surprises persistently reduce convenience yields across all maturities, with the underlying mechanisms differing by maturity through distinct safety and liquidity channels. Beyond Treasury markets, trade policy surprises also induce a persistent decline in equity prices, sustained increases in the VIX and text-based trade policy uncertainty, higher short-term inflation expectations, and a higher perceived probability of recession.
+   </details>
+
+2. [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236966)    
+   This version: February 2025       
+   <details><summary>Abstract</summary>   
+   Social media-fueled retail trading poses new risk to institutional investors. I develop a model to analyze the origin and pricing of this risk. Retail investors participate in a social network with concentrated linkages, which means their idiosyncratic sentiment shocks can lead to aggregate fluctuations in retail sentiment. These fluctuations shift investor composition, which in turn determines the price of retail sentiment risk. I calibrate the model to match price, quantity, and sentiment dynamics around the January 2021 short squeeze. Using the calibrated model, I quantify the impact of evolving social network topology on asset prices.
+   </details>
+
+3. [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper.pdf) (with Dirk Krueger and Harald Uhlig)     
+   Revise & resubmit: *The Review of Economic Studies*     
+   This version: June 2025  
+   \[[Paper](../files/Krueger_Li_Uhlig_paper.pdf)\] \[[Slides](../files/Krueger_Li_Uhlig_slides.pdf)\]
+   <details><summary>Abstract</summary>
+   This paper characterizes the transition dynamics of a continuous-time neoclassical production economy with capital accumulation in which households face idiosyncratic income risk and cannot commit to repay their debt. Therefore, even though a full set of contingent claims that pay out conditional on the realization of idiosyncratic shocks is available, the equilibrium features imperfect insurance and a non-degenerate cross-sectional consumption distribution. When household labor productivity takes two values, one of which is zero, and the utility function is logarithmic, we characterize the entire transition dynamics induced by unexpected technology shocks, including the evolution of the consumption distribution, in closed form. We then use these analytical transition results to study the speed of convergence in income per capita of a poor (low TFP) to a rich (high TFP) economy and the evolution of consumption inequality over time in response to an increase in idiosyncratic income risk.
+   </details>
+
+## Publications
+1. [Time Variation in the News-Returns Relationship](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/time-variation-in-the-newsreturns-relationship/01300E364B37863AC469C6D3FA85FBC8) (with Paul Glasserman and Harry Mamaysky)  
+   *Journal of Financial and Quantitative Analysis*, 60(1), February 2025  
+   <details><summary>Abstract</summary>
+   The speed of stock price reaction to news exhibits substantial time variation. Higher risk-bearing capacity of financial intermediaries, lower passive ownership of stocks, and more informative news increase price responses to contemporaneous news; surprisingly, these interaction variables also increase price responses to lagged news (underreaction). A simple model with limited attention and three investor types (institutional, noninstitutional, and passive) predicts the observed variation in news responses. A long-short trading strategy based on news sentiment earns high returns, which increase when conditioning on the interaction variables. The interactions we document are robust to the choice of news source.
+   </details>
