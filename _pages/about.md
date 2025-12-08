@@ -19,7 +19,7 @@ I am an Assistant Professor of Finance at Texas A&M University Mays Business Sch
 [**CV**](../files/CV_Fulin_Li.pdf)
 
 ## Working Papers
-1. [Trade Policy Surprises and U.S. Convenience Yields: Evidence from Prediction Markets](../files/Li_Xie.pdf) (with Yinxi Xie)     
+1. [Trade Policy Surprises and U.S. Convenience Yields: Evidence from Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5882222) (with Yinxi Xie)     
    This version: November 2025       
    <details><summary>Abstract</summary>   
    We show that U.S. trade policy surprises account for a large share of the variation in U.S. Treasury convenience yields during 2025. Using transaction-level data from Polymarket's tariff-related prediction markets, we construct a novel high-frequency measure of trade policy surprises. Leveraging narrow event windows around unscheduled trade announcements, we provide causal evidence that unexpected U.S. tariff increases weaken the convenience yield of U.S. Treasuries. Positive tariff surprises persistently reduce convenience yields across all maturities, with the underlying mechanisms differing by maturity through distinct safety and liquidity channels. Beyond Treasury markets, trade policy surprises also induce a persistent decline in equity prices, sustained increases in the VIX and text-based trade policy uncertainty, higher short-term inflation expectations, and a higher perceived probability of recession.
