@@ -7,7 +7,7 @@ author_profile: true
 
 ### Texas A&M University
 * Investment Analysis (Undergrad core), Instructor   
-  Spring 2024, Spring 2025
+  Spring 2024, Spring 2025, Spring 2026
 
 <!---
 ### The University of Chicago
