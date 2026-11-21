@@ -49,7 +49,8 @@ I am an Assistant Professor of Finance at Texas A&M University Mays Business Sch
    </details>
 
 ## Publications
-1. [Time Variation in the News-Returns Relationship](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/time-variation-in-the-newsreturns-relationship/01300E364B37863AC469C6D3FA85FBC8) (with Paul Glasserman and Harry Mamaysky)  
+1. [Time Variation in the News-Returns Relationship](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/time-variation-in-the-newsreturns-relationship/01300E364B37863AC469C6D3FA85FBC8)<br>
+   (with Paul Glasserman and Harry Mamaysky)<br>
    *Journal of Financial and Quantitative Analysis*, 60(1), February 2025  
    <details><summary>Abstract</summary>
    The speed of stock price reaction to news exhibits substantial time variation. Higher risk-bearing capacity of financial intermediaries, lower passive ownership of stocks, and more informative news increase price responses to contemporaneous news; surprisingly, these interaction variables also increase price responses to lagged news (underreaction). A simple model with limited attention and three investor types (institutional, noninstitutional, and passive) predicts the observed variation in news responses. A long-short trading strategy based on news sentiment earns high returns, which increase when conditioning on the interaction variables. The interactions we document are robust to the choice of news source.
