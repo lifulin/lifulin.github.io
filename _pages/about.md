@@ -19,25 +19,28 @@ I am an Assistant Professor of Finance at Texas A&M University Mays Business Sch
 [**CV**](../files/CV_Fulin_Li.pdf)
 
 ## Working Papers
-1. [Learning Economic Representations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7736120) (with Shantanu Thorat)     
+1. [Learning Economic Representations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7736120)
+   (with Shantanu Thorat)     
    This version: November 2026       
    <details><summary>Abstract</summary>   
    A linear-attention transformer replicates a human forecaster with similarity-based recall and Bayesian inference: her experiences enter the machine's fast weights, and her sense of similarity is its trainable slow weights. Trained solely to forecast an economic outcome with a state-dependent mean, the machine learns to recall experiences optimally. This optimal memory has a closed form: training amounts to a principal component analysis of the data. Equipped with associative memory, the machine nevertheless develops a factor model of the training economy internally, and its memory capacity sets the number of factors. When capacity falls short of the complexity of the economy, it acquires a coarse memory that can coincide with categorical thinking. Otherwise, it attains perfect memory and implements the standard Kalman filter. In experiments, gradient-based training finds this optimal memory from random initialization. The machine is, however, more flexible than a factor model: new data overwrite its fast weights, automating the re-estimation of factor loadings. In the economy of Muth (1961) populated by behavioral agents, a machine with sufficient capacity learns the exogenous shock process in its slow weights and holds agents' decision rules in its fast weights. This fast–slow separation empowers it to form rational expectations from subjective market data and to generalize: when a policy changes only agents' decision rules, the machine reaches rational expectations in the new regime, without retraining.
    </details>
    
-2. [Trade Policy Surprises and U.S. Convenience Yields: Evidence from Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5882222) (with Yinxi Xie)     
+3. [Trade Policy Surprises and U.S. Convenience Yields: Evidence from Prediction Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5882222)
+   (with Yinxi Xie)     
    This version: November 2026       
    <details><summary>Abstract</summary>   
    We show that U.S. trade policy surprises account for a large share of the variation in U.S. Treasury convenience yields during the trade war of 2025. Using transaction-level data from Polymarket's tariff-related prediction markets, we construct a novel high-frequency measure of trade policy surprises and provide causal evidence that unexpected U.S. tariff increases reduce Treasury convenience yields across all maturities. While tariff increases could enhance Treasuries' safe-haven appeal by improving fiscal sustainability, we find that the market uncertainty they generate erodes Treasuries' convenience benefits and dominates the fiscal channel. Consistent with this mechanism, tariff surprises elevate market-wide uncertainty, depress equity prices persistently, and raise the perceived probability of a U.S. recession. We further demonstrate that the decline in convenience yields operates through distinct safety and liquidity channels across maturities.
    </details>
 
-3. [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236966)    
+5. [Retail Trading and Asset Prices: The Role of Changing Social Dynamics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4236966)    
    This version: February 2025       
    <details><summary>Abstract</summary>   
    Social media-fueled retail trading poses new risk to institutional investors. I develop a model to analyze the origin and pricing of this risk. Retail investors participate in a social network with concentrated linkages, which means their idiosyncratic sentiment shocks can lead to aggregate fluctuations in retail sentiment. These fluctuations shift investor composition, which in turn determines the price of retail sentiment risk. I calibrate the model to match price, quantity, and sentiment dynamics around the January 2021 short squeeze. Using the calibrated model, I quantify the impact of evolving social network topology on asset prices.
    </details>
 
-4. [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper.pdf) (with Dirk Krueger and Harald Uhlig)     
+6. [Neoclassical Growth Transition Dynamics with One-Sided Commitment](../files/Krueger_Li_Uhlig_paper.pdf)
+   (with Dirk Krueger and Harald Uhlig)     
    Revise & resubmit: *The Review of Economic Studies*     
    This version: June 2025  
    \[[Paper](../files/Krueger_Li_Uhlig_paper.pdf)\] \[[Slides](../files/Krueger_Li_Uhlig_slides.pdf)\]
